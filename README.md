@@ -38,7 +38,7 @@ Following this, you will be guided through setting up a project template. Choose
 
 ## Writing Smart Contracts
 
-Our example project offers templates for both the <a href="https://docs.layerzero.network/contracts/oapp" style="color: #a77dff">Omnichain Application (OApp)</a> and <a href="https://docs.layerzero.network/contracts/oft" style="color: #a77dff">Omnichain Fungible Token (OFT)</a> contracts. Select the template that suits your project:
+Our example project offers templates for both but not limited to <a href="https://docs.layerzero.network/contracts/oapp" style="color: #a77dff">Omnichain Application (OApp)</a> and <a href="https://docs.layerzero.network/contracts/oft" style="color: #a77dff">Omnichain Fungible Token (OFT)</a> contracts. Select the template that suits your project:
 
 ## Writing Unit Tests
 
